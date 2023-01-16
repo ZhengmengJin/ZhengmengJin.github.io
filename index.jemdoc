@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Zhengmeng Jin
+
+~~~
+{}{img_left}{aaa.png}{Zhengmeng Jin}{200}{200}
+Professor \n
+College of Science \n
+Nanjing University of Posts and Telecommunications\n
+Nanjing 210023, P.R. China \n
+Email: jinzhm@njupt.edu.cn \n
+~~~
+
+\n
+My [https://orcid.org/0000-0002-5387-4129 ORCID]\n
+My [https://scholar.google.com/citations?user=9IQ2e6QAAAAJ&hl=en&oi=sra Google Scholar]\n
+
+
+== Research Areas
+~~~
+- Image Processing: Nonlinear partial differential equations and their   applications in image processing
+~~~
